@@ -6,7 +6,7 @@ I bring this project to the entire world because I haven't found any example in 
 
 To build this project, you need Visual Studio 2012 (the express version should be sufficient) and, of course, a Hantek USB oscilloscope.
 
-Nothing better than an example to understand how my library works, I have included into the solution a protype which is displaying the signal from Channel 1. All you need is to connect the probe to 1Khz/2V connector located.
+Nothing better than an example to understand how my library is working, I have included into the solution a protype which is displaying the signal from Channel 1. All you need is to connect the probe to 1Khz/2V connector located and run the application.
 
 My material is a model Hantek6022BE but I think it is compatible with other model but I haven't tried yet.
 
