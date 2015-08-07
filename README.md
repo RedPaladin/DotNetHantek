@@ -1,4 +1,4 @@
-I made this managed C# library in order to bring you a better abstraction of the native library HTMarch.dll provided by Hantek.
+I made this managed C# library in order to bring you a better abstraction level of the native library HTMarch.dll provided by Hantek.
 
 Note my C# library is using unsafe code to call the low level functions of the original library.
 
